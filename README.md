@@ -24,3 +24,6 @@ Para mais informações, entre em contato conosco através do telefone 65 9 9942
 
 Agradecemos pelo seu apoio e amor pelo esporte!
 
+## Criação
+
+Este site foi desenvolvido através da renomada equipe anônima de programação RX#1.
